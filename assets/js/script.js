@@ -266,7 +266,7 @@ document.getElementById("playerForm").addEventListener("submit", function(event)
     score: totalScore,
     playingTime: finaltime,
   };
-  axios.post('http://localhost:3000/api/game/createGame', gameData)
+  axios.post('https://backendmemorygame-production.up.railway.app/api/game/createGame', gameData)
     .then(response => {
       console.log('Respuesta de la API:', response.data);
     })

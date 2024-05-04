@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
   // Obtener los datos de la API de escuelas usando Axios
-  axios.get('http://localhost:3000/api/school/getAllSchools')
+  axios.get('https://backendmemorygame-production.up.railway.app/api/school/getAllSchools')
       
     .then(response => {
       // Manejar la respuesta y obtener los nombres de las escuelas
