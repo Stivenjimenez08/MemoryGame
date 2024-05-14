@@ -1,6 +1,27 @@
 const contentCard = [
   ["2x3", "15x3", "8x2", "4+4", "5x12", "3-1", "4-4", "13x4", "10x9", "5x5", "10+13", "11-10", "Ana tiene 5 cajas de huevos y cada caja tiene 6 huevos ¿Cuantos huevos tiene en total?", "2x14", "45-30", "8+9", "12x3", "20-13", "13x3", "2x17", "Juan tiene 5 manzanas y se come 2 ¿cuantas manzanas quedan?", "4x11"],
-  ["6", "45", "16", "8", "60", "2", "0", "52", "90", "25", "23", "1", "30", "28", "15", "17", "36", "7", "39", "14", "3", "44"]
+  ["Dos números que multiplicados de: 6", 
+  "Dos números que multiplicados de: 45",
+  "Dos números que multiplicados de: 16",
+  "Dos números que sumados de: 8", 
+  "Dos números que multiplicados de: 60", 
+  "Dos números que restados de:2",
+  "Dos números que restados de:0", 
+  "Dos número que multiplicados de: 52", 
+  "Dos números que multiplicados de: 90", 
+  "Dos números que multiplicados de: 25", 
+  "Dos números que sumados de: 23", 
+  "Dos números que restados de: 1",
+  "Respuesta: 30", 
+  "Dos números que multiplicados de: 28", 
+  "Dos números que restados de: 15", 
+  "Dos números que sumados de: 17", 
+  "Dos números que multiplicados de: 36", 
+  "Dos números que restados de: 7", 
+  "Dos números que multiplicados de: 39", 
+  "Dos númeors que multiplicados de: 14", 
+  "Respuesta: 3", 
+  "Dos números que multiplicados de: 44"]
 ];
 
 let totalCard = 6;
