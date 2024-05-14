@@ -1,6 +1,6 @@
 const contentCard = [
-  ["2x3", "15x3", "8x2", "4+4", "5x12", "3-1", "4-4", "1x8", "10x9", "5x5", "10+13", "10-12", "Ana tiene 5 cajas de huevos y cada caja tiene 6 huevos ¿Cuantos huevos tiene en total?", "2x14", "45-30", "8+8", "12x2", "20-13", "3x8", "2x17", "Juan tiene 5 manzanas y se come 2 ¿cuantas manzanas quedan?", "4x11"],
-  ["6", "45", "16", "8", "60", "2", "0", "8", "90", "25", "23", "2", "30", "28", "15", "16", "24", "7", "24", "34", "3", "44"]
+  ["2x3", "15x3", "8x2", "4+4", "5x12", "3-1", "4-4", "13x4", "10x9", "5x5", "10+13", "11-10", "Ana tiene 5 cajas de huevos y cada caja tiene 6 huevos ¿Cuantos huevos tiene en total?", "2x14", "45-30", "8+9", "12x3", "20-13", "3x8", "2x17", "Juan tiene 5 manzanas y se come 2 ¿cuantas manzanas quedan?", "4x11"],
+  ["6", "45", "16", "8", "60", "2", "0", "52", "90", "25", "23", "1", "30", "28", "15", "17", "24", "7", "36", "34", "3", "44"]
 ];
 
 let totalCard = 6;
