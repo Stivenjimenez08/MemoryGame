@@ -19,7 +19,7 @@ const contentCard = [
   "Dos números que multiplicados de: 36", 
   "Dos números que restados de: 7", 
   "Dos números que multiplicados de: 39", 
-  "Dos númeors que multiplicados de: 14", 
+  "Dos númeors que multiplicados de: 34", 
   "Respuesta: 3", 
   "Dos números que multiplicados de: 44"]
 ];
