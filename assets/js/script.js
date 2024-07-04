@@ -276,6 +276,7 @@ document.getElementById("playerForm").addEventListener("submit", function(event)
   const age = document.getElementById("age").value;
   const grade = document.getElementById("grade").value; 
   const school = document.getElementById("schools").value;
+  const idGame= 1;
   const gameData = {
     name,
     age,
@@ -286,6 +287,7 @@ document.getElementById("playerForm").addEventListener("submit", function(event)
     idSchool: parseInt(school),
     score: totalScore,
     playingTime: finaltime,
+    idGame: idGame
   };
   axios.post('https://backendmemorygame-production.up.railway.app/api/game/createGame', gameData)
     .then(response => {
